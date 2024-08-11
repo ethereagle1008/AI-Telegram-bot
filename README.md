@@ -33,7 +33,7 @@ To set up your own version of the Telegram AI Bot, follow these steps:
     ```
 5. Run the development server:
     ```bash
-    npm run dev
+    npm run dev 
     ```
 
 ## Environment Variables
